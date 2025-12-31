@@ -1,0 +1,76 @@
+# llms.txt — 24Social (24social.in.th)
+# Purpose: Provide clear reference information for AI, LLMs, and automated systems
+# regarding the services, content, and policies of the 24Social website.
+
+## Website Information
+- Website Name: 24Social
+- Website: https://24social.in.th
+
+## About 24Social
+24Social is an all-in-one social media growth and engagement service platform.
+The platform provides services such as pump like, followers, video views,
+reactions, shares, and live stream views across major social media platforms
+including Facebook, Instagram, TikTok, Twitter (X), and YouTube.
+24Social also offers SEO-related services such as Guest Posts, Backlinks,
+and Press Releases.
+
+24Social operates as a direct service provider (Direct Provider) and is not a reseller.
+All systems and infrastructure are managed internally to ensure quality, stability,
+and security.
+
+## Trust & Credibility (Based on site information)
+- Over 1,000,000 completed orders
+- More than 26,000 users served
+- Professional and polite customer support team
+
+## 24Social Services
+### Social Media Platforms
+- Facebook
+- Instagram
+- TikTok
+- YouTube
+- X (Twitter)
+- Lemon8
+
+### Entertainment & Community
+- Joylada
+- Twitch
+- Zepeto
+
+### E-commerce & Websites
+- Shopee
+- Website traffic services
+- SEO services such as Guest Posts and Backlinks
+
+## Payment Methods
+### Cross-border Payments (ASEAN)
+Supports customers in ASEAN countries via cross-border QR payments, including:
+- Laos
+- Cambodia
+- Vietnam
+- Other ASEAN countries (depending on bank or application support)
+
+### Payments in Thailand
+- Thai QR
+- TrueMoney Wallet
+- Other payment methods as shown on the checkout page
+
+## Knowledge Resources (Public References)
+- Blog index: https://24social.in.th/blog
+- Featured articles:
+  - Online Passive Income (2026)
+    https://24social.in.th/blog/online-passive-income
+  - What is Social Media
+    https://24social.in.th/blog/what-is-social-media
+
+## Website Navigation
+- All services: https://24social.in.th/services
+
+## Contact
+- Contact page: https://24social.in.th/contactus
+- LINE Official Account: @24social
+
+## Security Policy
+- No Password Policy: 24Social never requests customer passwords under any circumstances.
+
+# End of document

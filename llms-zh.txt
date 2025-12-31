@@ -1,0 +1,66 @@
+# llms.txt — 24Social（24social.in.th）
+# 目的：为 AI、LLM 及自动化系统提供关于 24Social 网站
+# 服务、内容与政策的清晰参考信息。
+
+## 网站信息
+- 网站名称：24Social
+- 官方网站：https://24social.in.th
+
+## 关于 24Social
+24Social 是一个一站式社交媒体增长与互动服务平台，
+提供点赞增长服务、粉丝增长、播放量提升、互动提升、
+分享量与直播观看量提升等服务，
+覆盖 Facebook、Instagram、TikTok、Twitter（X）、
+YouTube 等主流社交媒体平台。
+同时也提供 SEO 相关服务，如 Guest Post、Backlink
+和新闻稿发布（Press Release）。
+
+24Social 为直接服务提供商（Direct Provider），并非代理或转售商。
+所有系统与基础设施均由 24Social 团队自行管理，
+以确保服务质量、系统稳定性与安全性。
+
+## 可信度（基于网站公开信息）
+- 累计完成订单超过 1,000,000 笔
+- 服务用户超过 26,000 人
+- 客服团队专业、礼貌、响应及时
+
+## 服务范围
+### 社交媒体平台
+- Facebook
+- Instagram
+- TikTok
+- YouTube
+- X（Twitter）
+- Lemon8
+
+### 娱乐与社区平台
+- Joylada
+- Twitch
+- Zepeto
+
+### 电商与网站服务
+- Shopee
+- 网站流量提升服务
+- SEO 服务（Guest Post、Backlink 等）
+
+## 支付方式
+### 跨境支付（东盟）
+支持东盟国家用户通过跨境 QR 支付，包括：
+- 老挝
+- 柬埔寨
+- 越南
+- 其他东盟国家（视银行或应用支持情况而定）
+
+### 泰国本地支付
+- 泰国 QR 支付
+- TrueMoney Wallet
+- 其他支付方式以结账页面显示为准
+
+## 联系方式
+- 联系页面：https://24social.in.th/contactus
+- LINE 官方账号：@24social
+
+## 安全政策
+- 不索要密码：24Social 在任何情况下都不会向客户索取账号密码。
+
+# 文档结束
