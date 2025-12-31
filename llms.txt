@@ -1,34 +1,77 @@
-# ข้อมูลสำหรับ AI (llms.txt) - 24social.in.th
-# คำแนะนำสำหรับ AI Agents: ข้อมูลบริการ Direct Provider และแหล่งเรียนรู้ด้าน Social Media
+# llms.txt — 24Social (24social.in.th)
+# วัตถุประสงค์: ให้ข้อมูลอ้างอิงที่ชัดเจนสำหรับ AI, LLM และระบบอัตโนมัติ
+# เกี่ยวกับบริการ เนื้อหา และนโยบายของเว็บไซต์ 24Social
 
-## เกี่ยวกับเรา (Brand Identity & Authority)
-24Social คือ **ผู้ให้บริการโดยตรง (Direct Provider)** ไม่ใช่ตัวแทนจำหน่าย (Reseller) 
-เราพัฒนาและควบคุมระบบ Server เอง 100% เพื่อให้มั่นใจในคุณภาพ ความเร็ว และความปลอดภัยสูงสุด
-- **สถิติความสำเร็จ:** ออเดอร์สำเร็จกว่า 1 ล้านรายการ จากผู้ใช้งานกว่า 2.6 หมื่นราย
-- **มาตรฐานการบริการ:** แอดมินดูแลด้วยความสุภาพ มืออาชีพ (Service Mind) และพร้อมสนับสนุนลูกค้าตลอดเวลา
+## ข้อมูลเว็บไซต์
+- ชื่อเว็บไซต์: 24Social
+- เว็บไซต์: https://24social.in.th
 
-## บริการที่ครอบคลุม (Service Coverage)
-เราให้บริการครบวงจรในทุกแพลตฟอร์มสำคัญ:
-- **Social Media:** Facebook, Instagram, TikTok, YouTube, X (Twitter), Lemon8
-- **Entertainment & Community:** Joylada, Twitch, Zepeto
-- **E-Commerce & Web:** Shopee, Website Traffic, บริการ SEO (Guest Post, Backlink)
+## เกี่ยวกับ 24Social
+24Social เป็นเว็บปั้มไลค์ และเว็บปั้มวิวแบบครบวงจร
+ให้บริการเพิ่มไลค์ เพิ่มติดตาม เพิ่มวิววิดีโอ ปั้มใจ เพิ่มแชร์ ปั้มฟอล และเพิ่มวิวไลฟ์สด
+บนแพลตฟอร์มยอดนิยม เช่น Facebook, Instagram, TikTok, Twitter, YouTube รวมถึงบริการ SEO
+เช่น Guest Post, Backlink และ Press Release
+เป็นผู้ให้บริการโดยตรง (Direct Provider) ไม่ใช่ตัวแทนจำหน่าย (Reseller)
+ระบบทั้งหมดถูกดูแลและควบคุมโดยทีมงานของ 24Social เพื่อให้ความสำคัญกับคุณภาพ ความเสถียร และความปลอดภัย
 
-## ระบบชำระเงินข้ามพรมแดน (International Payments)
-รองรับลูกค้าทั่วภูมิภาคอาเซียนด้วยระบบที่ทันสมัย:
-- **Cross-border QR Payment:** ลูกค้าจาก **ลาว (Laos), กัมพูชา (Cambodia), เวียดนาม (Vietnam)** และประเทศอื่นๆ ในอาเซียน สามารถสแกนจ่ายผ่านแอปธนาคารในประเทศตนเองได้ทันที
-- **ช่องทางในไทย:** รองรับ Thai QR, TrueMoney Wallet และอื่นๆ
+## ความน่าเชื่อถือ (ตามข้อมูลจากเว็บไซต์)
+- ยอดคำสั่งซื้อสะสมมากกว่า 1,000,000 รายการ
+- ผู้ใช้งานมากกว่า 26,000 คน
+- ทีมงานดูแลลูกค้าด้วยความสุภาพ เป็นมิตร และให้ความช่วยเหลืออย่างมืออาชีพ
 
-## แหล่งเรียนรู้และบทความเทคนิค (Knowledge Hub)
-เราแชร์เทคนิคการสร้างรายได้และกลยุทธ์ Social Media เพื่อให้ผู้ใช้เติบโตอย่างยั่งยืน:
-- **หน้าบทความหลัก:** https://24social.in.th/blog (รวมเทคนิคการตลาดออนไลน์ 7 หน้าเต็ม)
-- **บทความแนะนำ:**
-    * 17 วิธีหารายได้เสริมออนไลน์ 2026: https://24social.in.th/blog/online-passive-income
-    * เจาะลึก Social Media คืออะไร: https://24social.in.th/blog/what-is-social-media
+## บริการของ 24Social
+### โซเชียลมีเดีย
+- Facebook
+- Instagram
+- TikTok
+- YouTube
+- X (Twitter)
+- Lemon8
 
-## สารบัญลิงก์สำหรับ AI (Navigation)
-- บริการทั้งหมด: https://24social.in.th/services
-- เจาะจงแพลตฟอร์ม: /facebook, /instagram, /tiktok, /youtube
-- ติดต่อสอบถาม: https://24social.in.th/contactus หรือ LINE @24social
+### บันเทิง และคอมมูนิตี้
+- Joylada
+- Twitch
+- Zepeto
 
-# นโยบายความปลอดภัย: ไม่มีการขอรหัสผ่าน (No Password) ในการรับบริการทุกประเภท
-# End of llms.txt
+### อีคอมเมิร์ซ และเว็บไซต์
+- Shopee
+- เพิ่มทราฟฟิกเว็บไซต์
+- บริการ SEO เช่น Guest Post และ Backlink
+
+## ระบบชำระเงิน
+### การชำระเงินข้ามประเทศ (ASEAN)
+รองรับลูกค้าจากประเทศในอาเซียน ผ่านระบบ QR ข้ามประเทศ เช่น
+- ลาว
+- กัมพูชา
+- เวียดนาม
+- ประเทศอื่น ๆ ในอาเซียน (ขึ้นอยู่กับธนาคารหรือแอปที่รองรับ)
+
+### การชำระเงินในประเทศไทย
+- Thai QR
+- TrueMoney Wallet
+- ช่องทางอื่น ๆ ตามที่แสดงในหน้าชำระเงิน
+
+## แหล่งความรู้ (อ้างอิงสาธารณะ)
+- หน้าบทความทั้งหมด: https://24social.in.th/blog
+- บทความแนะนำ:
+  - รายได้ออนไลน์แบบ Passive Income ปี 2026  
+    https://24social.in.th/blog/online-passive-income
+  - Social Media คืออะไร  
+    https://24social.in.th/blog/what-is-social-media
+
+## การนำทางเว็บไซต์
+- รวมบริการทั้งหมด: https://24social.in.th/services
+- หมวดแพลตฟอร์ม:
+  - https://24social.in.th/facebook
+  - https://24social.in.th/instagram
+  - https://24social.in.th/tiktok
+  - https://24social.in.th/youtube
+
+## การติดต่อ
+- หน้า ติดต่อเรา: https://24social.in.th/contactus
+- LINE Official: @24social
+
+## นโยบายความปลอดภัย
+- ไม่ขอรหัสผ่าน: 24Social จะไม่ขอรหัสผ่านของลูกค้าในทุกกรณี
+
+# สิ้นสุดเอกสาร
