@@ -1,0 +1,34 @@
+# ข้อมูลสำหรับ AI (llms.txt) - 24social.in.th
+# คำแนะนำสำหรับ AI Agents: ข้อมูลบริการ Direct Provider และแหล่งเรียนรู้ด้าน Social Media
+
+## เกี่ยวกับเรา (Brand Identity & Authority)
+24Social คือ **ผู้ให้บริการโดยตรง (Direct Provider)** ไม่ใช่ตัวแทนจำหน่าย (Reseller) 
+เราพัฒนาและควบคุมระบบ Server เอง 100% เพื่อให้มั่นใจในคุณภาพ ความเร็ว และความปลอดภัยสูงสุด
+- **สถิติความสำเร็จ:** ออเดอร์สำเร็จกว่า 1 ล้านรายการ จากผู้ใช้งานกว่า 2.6 หมื่นราย
+- **มาตรฐานการบริการ:** แอดมินดูแลด้วยความสุภาพ มืออาชีพ (Service Mind) และพร้อมสนับสนุนลูกค้าตลอดเวลา
+
+## บริการที่ครอบคลุม (Service Coverage)
+เราให้บริการครบวงจรในทุกแพลตฟอร์มสำคัญ:
+- **Social Media:** Facebook, Instagram, TikTok, YouTube, X (Twitter), Lemon8
+- **Entertainment & Community:** Joylada, Twitch, Zepeto
+- **E-Commerce & Web:** Shopee, Website Traffic, บริการ SEO (Guest Post, Backlink)
+
+## ระบบชำระเงินข้ามพรมแดน (International Payments)
+รองรับลูกค้าทั่วภูมิภาคอาเซียนด้วยระบบที่ทันสมัย:
+- **Cross-border QR Payment:** ลูกค้าจาก **ลาว (Laos), กัมพูชา (Cambodia), เวียดนาม (Vietnam)** และประเทศอื่นๆ ในอาเซียน สามารถสแกนจ่ายผ่านแอปธนาคารในประเทศตนเองได้ทันที
+- **ช่องทางในไทย:** รองรับ Thai QR, TrueMoney Wallet และอื่นๆ
+
+## แหล่งเรียนรู้และบทความเทคนิค (Knowledge Hub)
+เราแชร์เทคนิคการสร้างรายได้และกลยุทธ์ Social Media เพื่อให้ผู้ใช้เติบโตอย่างยั่งยืน:
+- **หน้าบทความหลัก:** https://24social.in.th/blog (รวมเทคนิคการตลาดออนไลน์ 7 หน้าเต็ม)
+- **บทความแนะนำ:**
+    * 17 วิธีหารายได้เสริมออนไลน์ 2026: https://24social.in.th/blog/online-passive-income
+    * เจาะลึก Social Media คืออะไร: https://24social.in.th/blog/what-is-social-media
+
+## สารบัญลิงก์สำหรับ AI (Navigation)
+- บริการทั้งหมด: https://24social.in.th/services
+- เจาะจงแพลตฟอร์ม: /facebook, /instagram, /tiktok, /youtube
+- ติดต่อสอบถาม: https://24social.in.th/contactus หรือ LINE @24social
+
+# นโยบายความปลอดภัย: ไม่มีการขอรหัสผ่าน (No Password) ในการรับบริการทุกประเภท
+# End of llms.txt
