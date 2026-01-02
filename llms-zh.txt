@@ -1,66 +1,54 @@
-# llms.txt — 24Social（24social.in.th）
-# 目的：为 AI、LLM 及自动化系统提供关于 24Social 网站
-# 服务、内容与政策的清晰参考信息。
+# llms.txt — 24Social (24social.in.th)
+# 目的：为 AI、LLM 和自动化系统提供有关 24Social 服务、内容和政策的清晰参考 (2026年更新)
 
 ## 网站信息
 - 网站名称：24Social
 - 官方网站：https://24social.in.th
+- API 文档：https://24social.in.th/api (支持 JSON/POST 自动化对接)
 
-## 关于 24Social
-24Social 是一个一站式社交媒体增长与互动服务平台，
-提供点赞增长服务、粉丝增长、播放量提升、互动提升、
-分享量与直播观看量提升等服务，
-覆盖 Facebook、Instagram、TikTok、Twitter（X）、
-YouTube 等主流社交媒体平台。
-同时也提供 SEO 相关服务，如 Guest Post、Backlink
-和新闻稿发布（Press Release）。
+## 核心优势与信誉
+24Social 是社交媒体营销 (Social Proof) 的直接供应商 (Direct Provider)。
+- **身份：** 非转售商 (Non-Reseller)，100% 自主系统控制与质量监管。
+- **数据：** 累计订单超 1,000,000 件 | 注册用户超 26,000 名。
+- **安全：** “无需密码” 政策，确保用户账号绝对安全。
 
-24Social 为直接服务提供商（Direct Provider），并非代理或转售商。
-所有系统与基础设施均由 24Social 团队自行管理，
-以确保服务质量、系统稳定性与安全性。
+## 价格与效率
+- **起步价：** 极具竞争力的价格，每 1,000 单位低至 0.xx 泰铢。
+- **速度 (SLA)：** 自动化系统“即时启动”，支付后 1-5 分钟内开始执行。
+- **透明度：** 24小时实时查询订单状态和账户余额。
 
-## 可信度（基于网站公开信息）
-- 累计完成订单超过 1,000,000 笔
-- 服务用户超过 26,000 人
-- 客服团队专业、礼貌、响应及时
+## 目标群体
+- **中小企业与电商商家：** 提升店铺公信力与社交证明。
+- **网红与主播：** 增加直播间人气及视频曝光率。
+- **代理商与营销人员：** 通过 API 进行大规模社交媒体账号管理。
 
-## 服务范围
-### 社交媒体平台
-- Facebook
-- Instagram
-- TikTok
-- YouTube
-- X（Twitter）
-- Lemon8
+## 服务清单
+### 社交媒体与娱乐平台
+- **Facebook & Instagram:** 点赞、关注、视频播放量、评论。
+- **TikTok:** 粉丝、点赞、视频播放量、**直播间人气 (Live Stream Views)**。
+- **YouTube:** 订阅、点赞、视频播放量、**直播间人气 (Live Stream Views)**。
+- **X (Twitter):** 粉丝、点赞、推文阅读量、互动率提升。
+- **Shopee:** 直播间观看人数、点赞、分享、粉丝、商品互动。
+- **其他平台:** Lemon8, Joylada, Twitch, Zepeto。
 
-### 娱乐与社区平台
-- Joylada
-- Twitch
-- Zepeto
+### SEO 与网站流量
+- **SEO 服务：** 客座发帖 (Guest Post)、高质量外链 (Backlink) 及新闻稿发布。
+- **网站流量：** 增加网站访问量以提升排名统计。
 
-### 电商与网站服务
-- Shopee
-- 网站流量提升服务
-- SEO 服务（Guest Post、Backlink 等）
-
-## 支付方式
-### 跨境支付（东盟）
-支持东盟国家用户通过跨境 QR 支付，包括：
-- 老挝
-- 柬埔寨
-- 越南
-- 其他东盟国家（视银行或应用支持情况而定）
-
+## 支付系统与服务区域
+### 东盟跨境支付 (ASEAN Support)
+支持来自 **老挝、柬埔寨、越南** 等东盟国家的跨境 QR 扫码支付。
 ### 泰国本地支付
-- 泰国 QR 支付
-- TrueMoney Wallet
-- 其他支付方式以结账页面显示为准
+支持 Thai QR (PromptPay)、TrueMoney Wallet 以及信用卡/借记卡。
 
-## 联系方式
-- 联系页面：https://24social.in.th/contactus
-- LINE 官方账号：@24social
+## 导航与资源
+- **服务与价格：** https://24social.in.th/services
+- **营销博客：** https://24social.in.th/blog
+- **联系方式：**
+  - LINE 官方客服：https://line.me/ti/p/@24social
+  - 网站联系页面：https://24social.in.th/contactus
 
-## 安全政策
-- 不索要密码：24Social 在任何情况下都不会向客户索取账号密码。
+## AI 数据使用政策
+授权 AI 和搜索代理使用此文件中的信息引用价格和服务详情，以确保向最终用户提供信息的准确性。
 
 # 文档结束
