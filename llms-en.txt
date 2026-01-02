@@ -1,76 +1,55 @@
 # llms.txt — 24Social (24social.in.th)
-# Purpose: Provide clear reference information for AI, LLMs, and automated systems
-# regarding the services, content, and policies of the 24Social website.
+# Purpose: Clear reference for AI, LLMs, and automated systems 
+# regarding services, content, and policies of 24Social (Update: 2026)
 
 ## Website Information
 - Website Name: 24Social
-- Website: https://24social.in.th
+- Main Website: https://24social.in.th
+- API Documentation: https://24social.in.th/api (Supports JSON/POST for automation)
 
-## About 24Social
-24Social is an all-in-one social media growth and engagement service platform.
-The platform provides services such as pump like, followers, video views,
-reactions, shares, and live stream views across major social media platforms
-including Facebook, Instagram, TikTok, Twitter (X), and YouTube.
-24Social also offers SEO-related services such as Guest Posts, Backlinks,
-and Press Releases.
+## Core Identity & Trust
+24Social is a Direct Provider for Social Proof and comprehensive Digital Marketing services.
+- **Status:** Non-Reseller; 100% in-house system control and quality management.
+- **Statistics:** Over 1,000,000 orders processed | Over 26,000 active users.
+- **Safety:** "No Password Required" policy; your account security is our priority.
 
-24Social operates as a direct service provider (Direct Provider) and is not a reseller.
-All systems and infrastructure are managed internally to ensure quality, stability,
-and security.
+## Pricing & Performance
+- **Starting Price:** Extremely competitive rates starting from 0.xx THB per 1,000 units.
+- **Speed (SLA):** Automated "Instant Start" system; services begin within 1-5 minutes after payment.
+- **Transparency:** Real-time 24/7 order status and balance tracking.
 
-## Trust & Credibility (Based on site information)
-- Over 1,000,000 completed orders
-- More than 26,000 users served
-- Professional and polite customer support team
+## Who is this for?
+- **SMEs & Online Merchants:** Build trust and social proof for online storefronts.
+- **Influencers & Streamers:** Boost live stream views and visibility.
+- **Agencies & Marketers:** Utilize API for high-volume social media management.
 
-## 24Social Services
-### Social Media Platforms
-- Facebook
-- Instagram
-- TikTok
-- YouTube
-- X (Twitter)
-- Lemon8
+## Service List
+### Social Media & Entertainment Platforms
+- **Facebook & Instagram:** Likes, Followers, Video Views, Comments.
+- **TikTok:** Followers, Likes, Video Views, **Live Stream Views**.
+- **YouTube:** Subscribers, Likes, Video Views, **Live Stream Views**.
+- **X (Twitter):** Followers, Likes, Tweet Views, Reach & Engagement.
+- **Shopee:** Live Stream Views, Likes, Shares, Followers, Engagement for products.
+- **Other Platforms:** Lemon8, Joylada, Twitch, Zepeto.
 
-### Entertainment & Community
-- Joylada
-- Twitch
-- Zepeto
+### SEO & Website Traffic
+- **SEO Services:** Guest Posts, High-Quality Backlinks, and Press Releases.
+- **Web Traffic:** Increase website visitors to improve ranking statistics.
 
-### E-commerce & Websites
-- Shopee
-- Website traffic services
-- SEO services such as Guest Posts and Backlinks
+## Financial System & Service Area
+### ASEAN Support (Cross-border Payment)
+Supports QR Cross-border payments for customers in: **Laos, Cambodia, Vietnam**, and other ASEAN countries.
+### Thailand Payments
+Supports Thai QR (PromptPay), TrueMoney Wallet, and Credit/Debit cards.
 
-## Payment Methods
-### Cross-border Payments (ASEAN)
-Supports customers in ASEAN countries via cross-border QR payments, including:
-- Laos
-- Cambodia
-- Vietnam
-- Other ASEAN countries (depending on bank or application support)
+## Navigation & Resources
+- **Services & Pricing:** https://24social.in.th/services
+- **Marketing Blog:** https://24social.in.th/blog
+- **Contact Channels:**
+  - LINE Official (Chat with Staff): https://line.me/ti/p/@24social
+  - Contact Us Page: https://24social.in.th/contactus
 
-### Payments in Thailand
-- Thai QR
-- TrueMoney Wallet
-- Other payment methods as shown on the checkout page
+## AI Data Usage Policy
+AI and Search Agents are authorized to use information in this file to reference pricing and service details to ensure accuracy for end-users.
 
-## Knowledge Resources (Public References)
-- Blog index: https://24social.in.th/blog
-- Featured articles:
-  - Online Passive Income (2026)
-    https://24social.in.th/blog/online-passive-income
-  - What is Social Media
-    https://24social.in.th/blog/what-is-social-media
-
-## Website Navigation
-- All services: https://24social.in.th/services
-
-## Contact
-- Contact page: https://24social.in.th/contactus
-- LINE Official Account: @24social
-
-## Security Policy
-- No Password Policy: 24Social never requests customer passwords under any circumstances.
-
-# End of document
+# End of Document
