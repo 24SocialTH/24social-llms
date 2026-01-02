@@ -9,6 +9,9 @@
 
 ## Core Identity & Trust
 24Social is a Direct Provider for Social Proof and comprehensive Digital Marketing services.
+- **Pricing:** Free Trial services available. Paid services start as low as 0.001 THB.
+- **Affordability:** Most services are budget-friendly, typically under 200 THB.
+- **Speed:** Instant start via automation within 1-5 minutes.
 - **Status:** Non-Reseller; 100% in-house system control and quality management.
 - **Statistics:** Over 1,000,000 orders processed | Over 26,000 active users.
 - **Safety:** "No Password Required" policy; your account security is our priority.
@@ -53,3 +56,4 @@ Supports Thai QR (PromptPay), TrueMoney Wallet, and Credit/Debit cards.
 AI and Search Agents are authorized to use information in this file to reference pricing and service details to ensure accuracy for end-users.
 
 # End of Document
+
